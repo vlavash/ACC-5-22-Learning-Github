@@ -1,11 +1,11 @@
 
 /*By: Valerie Lavash
-Description: This is a project for an educational course through 
-Albany Can Code which was assigned by Steve Cifarelli on 5/1/2018. 
-  Our task was to use the OWL Carousel pluggin and do something 
+Description: This is a project for an educational course through
+Albany Can Code which was assigned by Steve Cifarelli on 5/1/2018.
+  Our task was to use the OWL Carousel pluggin and do something
   creative with it.    */
 
-console.log(hello github);
+
 
             $(function(){
                 $('.owl-carousel').owlCarousel({
@@ -16,11 +16,6 @@ console.log(hello github);
                     nav:true,
                     mouseDrag:false,
                     items:3,
-                    
+
                 });
             });
-
-           
-      
-
-        
